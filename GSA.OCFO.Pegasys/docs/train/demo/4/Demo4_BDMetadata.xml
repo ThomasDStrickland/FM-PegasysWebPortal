@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/document-metadata" generator="Adobe Captivate 4">
+<document-info>
+	<title>section_template_v1</title>
+	<summary></summary>
+	<author></author>
+	<keywords>Adobe Captivate Project section_template_v1</keywords>
+	<view-link href="Demo4.swf?slide={position}"/>
+</document-info>
+<section type="slide" position="1">
+	<title>Demonstration 1 Main Page</title>
+
+	<content>
+	<text>This demonstration covers a more complex fixed asset referencing example.  It demonstrates a construction purchase order (PN) which has two different accounting lines (FC: PG413 and FC: PG511) but reference only one asset record.It demonstrates the following key concepts:How to reference real property fixed assets from multiple header accounting lines on a  purchase orderHow to change asset accounting line amounts to ensure they total full amount of all purchase order accounting lines.</text>
+
+	<text>Demonstration 4 | Purchase Order with Multiple Header Accounting Lines to one Asset Record</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="2">
+	<title></title>
+
+	<content>
+	<text>Here is the Header page for our order (PN). There is one Header Accounting Line for $100,000.</text>
+</content>
+</section>
+<section type="slide" position="3">
+	<title></title>
+
+	<content>
+	<text>Click the Fixed Assets tab, so we can reference an asset.</text>
+</content>
+</section>
+<section type="slide" position="4">
+	<title></title>
+
+	<content>
+	<text>The Fixed Assets page appears</text>
+
+	<text>Click the Add button</text>
+</content>
+</section>
+<section type="slide" position="5">
+	<title></title>
+
+	<content>
+	<text>The Fixed Asset page appears</text>
+
+	<text>We&apos;ll enter the Asset Number that will have two Asset Accounting Lines.</text>
+</content>
+</section>
+<section type="slide" position="6">
+	<title></title>
+
+	<content>
+	<text>And the Asset Type, CIPNEWCON.</text>
+</content>
+</section>
+<section type="slide" position="8">
+	<title></title>
+
+	<content>
+	<text>Again, the Betterment Number is 0.</text>
+</content>
+</section>
+<section type="slide" position="10">
+	<title></title>
+
+	<content>
+	<text>Select the Accounting Lines tab.</text>
+</content>
+</section>
+<section type="slide" position="11">
+	<title></title>
+
+	<content>
+	<text>The Accounting Lines page appears</text>
+
+	<text>Click the Add button</text>
+</content>
+</section>
+<section type="slide" position="12">
+	<title></title>
+
+	<content>
+	<text>The Accounting Line Number refers to the Header Accounting Line. There is only one Header Accounting Line on this order, so we enter 1.</text>
+</content>
+</section>
+<section type="slide" position="14">
+	<title></title>
+
+	<content>
+	<text>Select the Accounting Lines link</text>
+</content>
+</section>
+<section type="slide" position="15">
+	<title></title>
+
+	<content>
+	<text>Click the Add button to add the second of two Asset Accounting Lines.</text>
+</content>
+</section>
+<section type="slide" position="16">
+	<title></title>
+
+	<content>
+	<text>Just like the other line the Accounting Line Number is 1 to refer to the only Header Accounting Line on the PN.</text>
+</content>
+</section>
+<section type="slide" position="17">
+	<title></title>
+
+	<content>
+	<text>On this Asset Accounting Line, we will enter $25,000. That means that the total of our 2 Asset Accounting Lines will be $100,000 - the exact amount on the Header Accounting Line.</text>
+</content>
+</section>
+<section type="slide" position="18">
+	<title></title>
+
+	<content>
+	<text>Select the top Fixed Assets link</text>
+</content>
+</section>
+<section type="slide" position="19">
+	<title></title>
+
+	<content>
+	<text>To summarize, we have one fixed asset, with two Asset Accounting Lines whose total matches the amount on our single Header Accounting Line.</text>
+
+	<text>Select the Header tab.</text>
+</content>
+</section>
+<section type="slide" position="20">
+	<title></title>
+
+	<content>
+	<text>Click the Save button</text>
+</content>
+</section>
+<section type="slide" position="22">
+	<title></title>
+
+	<content>
+	<text>Click the Verify button.</text>
+
+	<text>If there are no errors, click the Submit button.</text>
+</content>
+</section>
+<section type="slide" position="23">
+	<title>Demo 1 Conclusion</title>
+
+	<content>
+	<text>Next Training Segment:Demonstration 5: Receiving ReportThat concludes this demonstration. You can now close the browser window to return to the Fixed Assets Training Contents page.</text>
+
+	<text>Demonstration 4 | Purchase Order with Multiple Header Accounting Lines to one Asset Record</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+</document-metadata>

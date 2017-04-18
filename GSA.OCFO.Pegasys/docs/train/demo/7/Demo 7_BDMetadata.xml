@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/document-metadata" generator="Adobe Captivate 4">
+<document-info>
+	<title>section_template_v1</title>
+	<summary></summary>
+	<author></author>
+	<keywords>Adobe Captivate Project section_template_v1</keywords>
+	<view-link href="Demo 7.swf?slide={position}"/>
+</document-info>
+<section type="slide" position="1">
+	<title>Demonstration 10 Main Page</title>
+
+	<content>
+	<text>This demonstration covers a simple credit card reconciliation to a credit card log (CL) and linking to the asset record.  It provides a step-by-step guide of linking the asset record and changing the amount reconciled to the transaction line.It demonstrates the following key concepts:Referencing an asset on a transaction lineChoosing a reconciliation amount to allocate to the transaction line.</text>
+
+	<text>Demonstration 7 | Credit Card Reconciliation</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="2">
+	<title></title>
+
+	<content>
+	<text>We will begin on the Transaction Reconciliation page.</text>
+</content>
+</section>
+<section type="slide" position="3">
+	<title></title>
+
+	<content>
+	<text>Click on the Transaction drop-down list so we can select the Credit Card Log (CL) that was already created.</text>
+</content>
+</section>
+<section type="slide" position="4">
+	<title></title>
+
+	<content>
+	<text>Select the CL from the Transaction drop-down list.</text>
+</content>
+</section>
+<section type="slide" position="5">
+	<title></title>
+
+	<content>
+	<text>Select the Statement Line.</text>
+</content>
+</section>
+<section type="slide" position="6">
+	<title></title>
+
+	<content>
+	<text>Click the Transaction Lines button</text>
+</content>
+</section>
+<section type="slide" position="7">
+	<title></title>
+
+	<content>
+	<text>The Transaction Line Reconciliation page appears</text>
+
+	<text>Select the Accounting Line.</text>
+</content>
+</section>
+<section type="slide" position="8">
+	<title></title>
+
+	<content>
+	<text>Click the Asset button</text>
+</content>
+</section>
+<section type="slide" position="9">
+	<title></title>
+
+	<content>
+	<text>The Credit Card Asset Information page appears</text>
+
+	<text>Select the Asset Number.</text>
+</content>
+</section>
+<section type="slide" position="10">
+	<title></title>
+
+	<content>
+	<text>Enter the Reconciliation Amount.</text>
+</content>
+</section>
+<section type="slide" position="11">
+	<title></title>
+
+	<content>
+	<text>Click the Back button</text>
+</content>
+</section>
+<section type="slide" position="12">
+	<title></title>
+
+	<content>
+	<text>The Transaction Line Reconciliation page appears</text>
+
+	<text>Click the Reconcile button</text>
+</content>
+</section>
+<section type="slide" position="13">
+	<title></title>
+
+	<content>
+	<text>The Reconciliation is complete.</text>
+</content>
+</section>
+<section type="slide" position="14">
+	<title>Demo 1 Conclusion</title>
+
+	<content>
+	<text>Next Training Segment:Demonstration 8: Pegasys Fixed Asset QueryThat concludes this demonstration. You can now close the browser window to return to the Fixed Assets Training Contents page.</text>
+
+	<text>Demonstration 7 | Credit Card Reconciliation</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+</document-metadata>

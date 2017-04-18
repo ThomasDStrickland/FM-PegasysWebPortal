@@ -1,2 +1,2 @@
 # FM-PegasysWebPortal
-This is the repository is for the pegasys.gsa.gov website.
+This is the repository for the pegasys.gsa.gov website.

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/document-metadata" generator="Adobe Captivate 4">
+<document-info>
+	<title>section_template_v1</title>
+	<summary></summary>
+	<author></author>
+	<keywords>Adobe Captivate Project section_template_v1</keywords>
+	<view-link href="Demo 9.swf?slide={position}"/>
+</document-info>
+<section type="slide" position="1">
+	<title>Demonstration 1 Main Page</title>
+
+	<content>
+	<text>The purpose of the Fixed Assets Journal is to provide an audit trail of all asset-related activity. It supplements the Transaction, Accounting, and General Journals by serving as a subsidiary ledger, and tracks asset-related transactions and asset-specific information that are not included in the other journals.In the demonstration, you can see what the query looks like and how to use it.</text>
+
+	<text>Demonstration 9 | Fixed Assets Journal Query</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="2">
+	<title>Copy of Demonstration 1 Main Page</title>
+
+	<content>
+	<text>To begin the Asset Query, click Queries, Fixed Assets and then Journal Query.</text>
+
+	<text>Demonstration 9 | Fixed Assets Journal Query</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="3">
+	<title></title>
+
+	<content>
+	<text>I&apos;ll enter an Asset Type.</text>
+
+	<text>You can search for records based on the following selection criteria: Asset Type, Asset Number, Betterment Number, Asset Category, Asset Class, Asset Group, Custodial information, Location information, Acquisition Method, or by certain amounts. For example, Acquisitions costing more than $1,000,000.00.</text>
+</content>
+</section>
+<section type="slide" position="4">
+	<title></title>
+
+	<content>
+	<text>And an Acquisition Cost of more than $1,000,000</text>
+</content>
+</section>
+<section type="slide" position="9">
+	<title></title>
+
+	<content>
+	<text>Click the Search button</text>
+</content>
+</section>
+<section type="slide" position="10">
+	<title></title>
+
+	<content>
+	<text>Scroll down to see the results.</text>
+</content>
+</section>
+<section type="slide" position="11">
+	<title></title>
+
+	<content>
+	<text>Select the item you want to display.</text>
+</content>
+</section>
+<section type="slide" position="12">
+	<title></title>
+
+	<content>
+	<text>Click the Details button</text>
+</content>
+</section>
+<section type="slide" position="13">
+	<title></title>
+
+	<content>
+	<text>The Journal Details page appears</text>
+
+	<text>Click the View Document button</text>
+</content>
+</section>
+<section type="slide" position="15">
+	<title></title>
+
+	<content>
+	<text>The document appears in a pop-up window.</text>
+</content>
+</section>
+<section type="slide" position="16">
+	<title>Conclusion</title>
+
+	<content>
+	<text>Demonstration 9 | Fixed Assets Journal Query</text>
+
+	<text>Pegasys Fixed Assets</text>
+
+	<text>Every field on this query is described in figure 7-12 of the Fixed Assets Phase 2 User Guide. This document can be found at pegasys.gsa.gov.Next Training Segment:Demonstration 10: Pegasys General Ledger Detail QueryThat concludes this demonstration. You can now close the browser window to return to the Fixed Assets Training Contents page.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+</document-metadata>

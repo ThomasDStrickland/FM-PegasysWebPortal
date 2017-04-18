@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/document-metadata" generator="Adobe Captivate 4">
+<document-info>
+	<title>section_template_v1</title>
+	<summary></summary>
+	<author></author>
+	<keywords>Adobe Captivate Project section_template_v1</keywords>
+	<view-link href="Demo 8.swf?slide={position}"/>
+</document-info>
+<section type="slide" position="1">
+	<title>Demonstration 1 Main Page</title>
+
+	<content>
+	<text>The Asset Query contains a complete set of information available for a given asset and its betterments. It reflects the current status of the asset and provides a history of the activity processed against the asset record. This query is used to research information regarding the asset or betterment.This query has the following three sections: Summary, Detail, and Accounting Line. Each section contains more detail that is specific to the asset record being viewed, and groups the asset record with its associated betterments.In the demonstration, you can see what the query looks like and how to use it.</text>
+
+	<text>Demonstration 8 | Asset Query</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="2">
+	<title>Copy of Demonstration 1 Main Page</title>
+
+	<content>
+	<text>To begin the Asset Query, click Queries, Fixed Assets and then Asset Query.</text>
+
+	<text>Demonstration 8 | Asset Query</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="3">
+	<title></title>
+
+	<content>
+	<text>Enter the Asset Number</text>
+</content>
+</section>
+<section type="slide" position="4">
+	<title></title>
+
+	<content>
+	<text>Then click the Search button</text>
+</content>
+</section>
+<section type="slide" position="5">
+	<title></title>
+
+	<content>
+	<text>Click on the radio button next to the Asset you would like to display</text>
+
+	<text>The Asset Query page displays an overall summary of the asset and all of its betterments. It is created by Fixed Asset Acquisition (FA) transactions. The Fixed Asset Betterment (FB), the Fixed Asset Correction (FC), the Fixed Asset Transfer (FT), as well as purchasing and payment transactions may also update certain fields on the summary record.</text>
+</content>
+</section>
+<section type="slide" position="6">
+	<title></title>
+
+	<content>
+	<text>Click the Details button to view the Asset Query Details page.</text>
+</content>
+</section>
+<section type="slide" position="7">
+	<title></title>
+
+	<content>
+	<text>The Asset Query Details page  provides information specific to the original asset and its betterments. An asset summary record is created at the time the original asset is acquired (i.e., when the fixed asset acquisition document is processed.)</text>
+</content>
+</section>
+<section type="slide" position="8">
+	<title></title>
+
+	<content>
+	<text>The Actual Acquisition Cost displays an amount that is the sum of the acquisition cost of the asset and associated betterments.</text>
+</content>
+</section>
+<section type="slide" position="9">
+	<title></title>
+
+	<content>
+	<text>Click the Details link</text>
+</content>
+</section>
+<section type="slide" position="10">
+	<title></title>
+
+	<content>
+	<text>The Details tab shows the original asset and any associated betterments.Asset, accounting and spending details can be viewed for each of the asset or betterment records listed in the Details window.</text>
+
+	<text> To view the details for a selected asset or betterment, click on the radio button.</text>
+</content>
+</section>
+<section type="slide" position="11">
+	<title></title>
+
+	<content>
+	<text>Click the Asset Detail link</text>
+
+	<text>Several links will appear, including the Asset Detail, Accounting Detail, and Spending Details. Once you select one of these links. They will appear as tabs. The Asset Query Details and Details tabs will then appear as links.</text>
+</content>
+</section>
+<section type="slide" position="12">
+	<title></title>
+
+	<content>
+	<text>The Asset Detail page appears</text>
+</content>
+</section>
+<section type="slide" position="14">
+	<title></title>
+
+	<content>
+	<text>Click the Accounting Detail tab</text>
+</content>
+</section>
+<section type="slide" position="16">
+	<title></title>
+
+	<content>
+	<text>Click the Spending Details tab</text>
+</content>
+</section>
+<section type="slide" position="17">
+	<title></title>
+
+	<content>
+	<text>The Spending Details page appears</text>
+
+	<text>Click the Asset Depreciation History</text>
+</content>
+</section>
+<section type="slide" position="18">
+	<title></title>
+
+	<content>
+	<text>The Asset Depreciation History page appears</text>
+
+	<text>Click the Asset Fiscal Year Depreciation tab</text>
+</content>
+</section>
+<section type="slide" position="19">
+	<title></title>
+
+	<content>
+	<text>The Asset Fiscal Year Depreciation page appears</text>
+</content>
+</section>
+<section type="slide" position="20">
+	<title>Conclusion</title>
+
+	<content>
+	<text>Demonstration 8 | Asset Query</text>
+
+	<text>Pegasys Fixed Assets</text>
+
+	<text>Every field on this query is described in figure 7-9 of the Fixed Assets Phase 2 User Guide. This document can be found at pegasys.gsa.gov.Next Training Segment:Demonstration 9: Fixed Assets Journal QueryThat concludes this demonstration. You can now close the browser window to return to the Fixed Assets Training Contents page.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+</document-metadata>

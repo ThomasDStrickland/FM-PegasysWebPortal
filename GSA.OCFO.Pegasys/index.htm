@@ -1,0 +1,412 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<title>GSA : Pegasys</title>
+<link href="css/peg60.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="css/peg60_print.css" rel="stylesheet" type="text/css" media="print" />
+<script language="JavaScript"> 
+<!--
+// Added on 6/02/03 to display security warning before page load
+// msg = " ******************************************* WARNING *******************************************\n";
+ msg = " ************************* WARNING ***********************************\n";
+ msg = msg + "\n YOU HAVE CONNECTED TO A U.S. GOVERNMENT COMPUTER.";
+ msg = msg + "\n IF YOU ARE NOT AUTHORIZED ACCESS TO THIS SYSTEM, DISCONNECT NOW.\n";
+ msg = msg + "\n All attempts to access and use this system and/or its resources are subject to";
+ msg = msg + "\n keystroke monitoring and recording.  Everyone using this system expressly consents";
+ msg = msg + "\n to such monitoring and is advised that if such reveals possible evidence of";
+ msg = msg + "\n criminal activity or abuse of authority, the information will be reported to";
+ msg = msg + "\n authorities for action. Unauthorized access attempts or use in excess of documented";
+ msg = msg + "\n authority may subject you to a fine and/or imprisonment in accordance with";
+ msg = msg + "\n Title 18, USC, Section 1030 or administrative penalties or dismissal.\n";
+ msg = msg + "\n ************************* WARNING **********************************";
+// msg = msg + "\n ******************************************* WARNING *******************************************";
+ //Get cookie routine by Shelley Powers
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+// if cookie exists
+if (offset != -1) {
+offset += search.length
+// set index of beginning of value
+end = document.cookie.indexOf(";", offset);
+// set index of end of cookie value
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+ 
+if (get_cookie("pegasys_warning") != "agrees")
+  {if (!confirm(msg))
+	{ window.location.href ="http://www.gsa.gov"}
+    else {
+//	          alert("setting variable")
+	          document.cookie ="pegasys_warning=agrees"}
+ 
+  }
+//-->
+</script>
+ 
+<SCRIPT LANGUAGE="JavaScript"> 
+ 
+window.onerror = null;
+ var bName = navigator.appName;
+ var bVer = parseInt(navigator.appVersion);
+ var NS4 = (bName == "Netscape" && bVer >= 4);
+ var IE4 = (bName == "Microsoft Internet Explorer" 
+ && bVer >= 4);
+ var NS3 = (bName == "Netscape" && bVer < 4);
+ var IE3 = (bName == "Microsoft Internet Explorer" 
+ && bVer < 4);
+ var blink_speed=900;
+ var i=0;
+ 
+if (NS4 || IE4) {
+ if (navigator.appName == "Netscape") {
+ layerStyleRef="layer.";
+ layerRef="document.layers";
+ styleSwitch="";
+ }else{
+ layerStyleRef="layer.style.";
+ layerRef="document.all";
+ styleSwitch=".style";
+ }
+}
+ 
+//BLINKING
+function Blink(layerName){
+ if (NS4 || IE4) { 
+ if(i%2==0)
+ {
+ eval(layerRef+'["'+layerName+'"]'+
+ styleSwitch+'.visibility="visible"');
+ }
+ else
+ {
+ eval(layerRef+'["'+layerName+'"]'+
+ styleSwitch+'.visibility="hidden"');
+ }
+ } 
+ if(i<1)
+ {
+ i++;
+ } 
+ else
+ {
+ i--
+ }
+ setTimeout("Blink('"+layerName+"')",blink_speed);
+}
+ 
+</script>
+ 
+</head>
+<body>
+<div id="container">
+    <div id="everything">
+        <div id="headcontainer">
+            <div id="header">
+				<img src="pimages/headleft.gif" alt="GSA Star Logo" align="left" />
+				<img src="pimages/headright.gif" alt="Pegasys Horse Logo" align="right" />
+			</div>
+        </div>
+        <div id="mainnavcontainer">
+            <div id="mainnav">
+                <ul>
+                    <li class="selected"><a href="../">Pegasys</a></li>
+                    <li><a href="https://pegasys-phdc.gsa.gov/momex?alt-idp-id=SECAUTHPROD" target="_blank">System Login</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id="subnavcontainer">
+            <div id="subnav">
+                <ul>
+                    <li class="selected"><a href="index.htm">Home</a></li>
+                    <li><a href="ref.htm">Reference</a></li>
+                    <li><a href="tips.htm">Tips</a></li>
+                    <li><a href="help.htm">Help</a></li>
+                    <li><a href="fcsr.htm">FC/SR Resource</a></li>
+                    <li><a href="train.htm">Training</a></li>
+                    <li><a href="admin.htm">Administration</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id="main">
+            <div id="indcontent">
+                <div id="indmaincontent">
+                    <!--<div id="banner">
+                        <p class="mission"></p>
+                    </div>-->
+                    <div id="columns">
+                        <div class="col">
+                           <div class="leftcolbox">
+								<span class="title">Pegasys News and Announcements</span>
+
+                                        
+                      <div class="leftcolbox">
+                                    <br />
+                                    <!--<span class="title"><font color="red" size="3">PLANNED PEGASYS OUTAGE: 7 p.m. (ET) Mar 9 -  7 a.m. (ET) Mar 14</font></span>
+                                    <p><strong>SCHEDULED OUTAGE TIME:</strong></p>
+                                    <p><strong>7 p.m. (Eastern Time) Thursday, March 9 - 7 a.m. (Eastern Time) Tuesday, March 14</strong></p>                                
+                                    <p>
+                                        <b>Pegasys will be unavailable</b> due to the implementation of the Pegasys Cloud Hosting Migration. <br />
+                                        <br/>-->
+                                        
+                                </div>
+
+                            
+                                   
+
+
+							<div class="leftcolbox">
+							<span class="title">PBS Pegasys Users:</span>        
+							<p>The FY 2014 Appropriations Bill split the PBS Building Operations budget account into two separate program codes (also known as budget activities). As a result of this change, a new program code <strong>(PG60)</strong> was added to Pegasys.</p>
+								<p>Pegasys transactions for PBS Building Operations are now recorded with one of the following:</p>
+								<ul>
+									<li><strong>Program code (PG61)</strong> used for 
+									<strong>Building Services transactions</strong>.</li>
+									<li><strong>program code (PG60)</strong> used for 
+									<strong>Salaries and Expenses transactions</strong>.</li>
+								</ul>
+								
+								<p><a href="docs/other/ProgramCode_PG60_PG61_Coding.xlsx" target="_blank">Click to view a crosswalk, which identifies the transactions that should use code PG61 and those that should use PG60</a>.</p>
+								<p>If you have questions, please contact Dawn Stalter at <a href="mailto:dawn.stalter@gsa.gov">dawn.stalter@gsa.gov</a> or (202) 205-8921.</p>
+</div>
+
+
+<div class="leftcolbox">
+<span class="title">AGENCY CODE CHANGES IN PEGASYS DUE TO BAAR PHASE 2A IMPLEMENTATION</span>        
+							<p><strong>Pegasys now identifies an agency with a three-digit code.</strong> This transition to using a three-digit code to identify agencies is a part of the Government-wide Treasury Account Symbol Adjusted Balance System (GTAS) project and was part of the recent implementation of the Phase 2A Billings and Accounts Receivable (BAAR) module.</p>
+<p>To find an agency’s new identification code, visit <a href="https://insite.gsa.gov/portal/content/529890" target="_blank">https://insite.gsa.gov/portal/content/529890</a>, and review the document <strong>“2-Digit to 3-Digit Agency Code Crosswalk.”</strong></p>
+							</div>
+
+  
+
+  
+
+                    <div class="leftcolbox">
+						<h3>OCFO Issues Updated Sub-Object Class (SOC) Code List</h3>
+                               <ul>
+                                   <li>
+                                       <p>The new Sub-Object Class (SOC) list includes several new codes as well as changes to existing codes.<br><br>New and Revised Codes include the following:</p>
+                                       		<ul>
+							<li>Awards to specifically categorize by type of award;</li> 
+							<li>Meetings and conferences to distinguish associated support, supply and travel costs; and</li> 
+							<li>PBS Environmental SOCs.</li> 
+						</ul>
+					<p>All changes are annotated on the <a href="docs/other/cgac/Sub_Object_Class.xls" target="_blank">SOC list spreadsheet.</a><br><br> 
+
+						Please contact your service POC with any questions and comments you might have.</p>
+
+					
+										<table style="width: 100%" border="1">
+														<tr>
+																		<td class="style3">
+																		<strong>GMA</strong></td>
+																		<td class="style3">Ellis Dyson, Dewan Studdard (<a href="mailto:dewan.studdard@gsa.gov">dewan.studdard@gsa.gov</a>)</td>
+														</tr>
+														<tr>
+																		<td class="style3">
+																		<strong>FAS</strong></td>
+																		<td class="style3"><a href="mailto:fasfinancialsystems@gsa.gov">fasfinancialsystems@gsa.gov</a></td>
+														</tr>
+														<tr>
+																		<td class="style3">
+																		<strong>PBS</strong></td>
+																		<td class="style3">Mark Grgurich, Dawn Stalter, Claudine Schleicher</td>
+														</tr>
+														<tr>
+																		<td class="style3">
+																		<strong>Finance</strong></td>
+																		<td class="style3">Marisa Quinlivan (BCE), Patricia Hernandez-Branch (BCF), Jane Pritchett (BC), Theresa Lewis (BC)</td>
+														</tr>
+										</table>
+                                       <ul>
+	                                       <li><a href="docs/other/cgac/Sub_Object_Class.xls" target="_blank">Sub-Object Class Codes List</a></li>
+	                                       <li><a href="docs/other/cgac/CGAC_Overview.ppt" target="_blank">Common Government-wide Accounting Classification (CGAC) overview </a></li>                                       
+	                                       <li><a href="codebase.htm">Financial Code Maintenance Process</a></li>
+                                       </ul>
+                                   </li>
+			                	</ul>
+			                </div>                              
+                            </div>
+                        </div> 
+                        <div class="col">  
+<!--
+ 
+                            <div class="rightcolbox">
+								<span class="title">2012 Pegasys Recertification</span>
+								    <ul>
+									        <li><font color="red"><b>The GSA Office of Financial Management Systems is conducting the annual recertification of all users of the Pegasys Financial System.  In order to maintain your Pegasys access, you must recertify your account by Friday, August 10, 2012.</b></font></li>   
+ 
+<li>Failure to complete the recertification process for your account will result in deactivation of your system access.  Any deactivated accounts will require a new user request form, including approvals, for account reactivation. </li> 
+
+<li> To complete the Recertification process access the link below, <br /><a href="http://insite.cfo.gsa.gov/cert/">http://insite.cfo.gsa.gov/cert/</a></li>
+									</ul>	
+                            </div>    
+-->
+                
+
+           
+<!--
+
+                        <div class="rightcolbox">
+								<span class="title">New Site Announcement</span>
+
+                                <img src="pimages/BD-Site_Banner-Ad-Teaser.gif" alt="BD Site Banner" align="top"/>
+
+
+                            </div>      
+-->
+
+<!--
+                        <div class="rightcolbox">
+								
+
+
+
+<span class="title">Financial Systems Service Desk Extended Hours for Year-end Closing (FY 2016):</span>
+<p>The Financial Systems Service Desk will be available to users on an extended schedule from September 22-30 to support year-end financial operations. During this time frame, the hours of operation will be as follows:</p>
+<table border="1" style="margin:0 0 10px 15px;width:95%">
+<tr>
+	<td>DATES (Sept. 22-30)</td>
+	<td>TIMES (All times are listed as Eastern Time)</td>
+</tr>
+
+<tr>
+	<td>Thursday, Sept. 22 - Friday, Sept. 23</td>
+	<td>7:30 a.m. - 9 p.m.</td>
+</tr>
+
+<tr>
+	<td>Saturday, Sept. 24</td>
+	<td>8 a.m. - 5 p.m.</td>
+</tr>
+<tr>
+	<td>Sunday, Sept. 25</td>
+	<td>8 a.m. - 3 p.m.</td>
+</tr>
+<tr>
+	<td>Monday, Sept. 26 - Tuesday, Sept. 27</td>
+	<td>7:30 a.m. - 9 p.m.</td>
+</tr>
+<tr>
+	<td>Wednesday, Sept. 28 - Thursday, Sept.29</td>
+	<td>7:30 a.m. - 10 p.m.</td>
+</tr>
+<tr>
+	<td>Friday, Sept. 30</td>
+	<td>7:30 a.m. - midnight</td>
+</tr>
+</table>
+
+<p><a href="http://corporateapps.gsa.gov/wordpress/wp-content/uploads/2016/09/FY-2016-Calendar-Annual-Close-FINAL.pdf">FY 16 - Annual Closing Calendar</a></p>
+<p> Please contact the Financial Systems Service Desk at <strong>1-866-450-6588</strong> or <a href="mailto:OCFOServiceDesk@gsa.gov">OCFOServiceDesk@gsa.gov</a></p>
+                            </div>
+-->
+<div class="rightcolbox">
+                                <span class="title">Pegasys Customer Satisfaction Survey</span>
+<p>We are collecting feedback on core GSA applications and we ask you to please take our short survey so we can provide you with an even better experience. We actively use this feedback to constantly improve our delivery and provide you with the best possible service. The survey can be found here: <a href="https://docs.google.com/forms/d/15ADgfBedBp9DNyu45Nea-NczZdOOgHay9gml-Q6KhUE/viewform?entry.301527540=PEGASYS&entry.2066087903" target="_blank">Pegasys Customer Satisfaction Survey</a>.</p>
+<p>Thank you in advance!</p>
+
+</div>
+                            <div class="rightcolbox">
+                                <span class="title">EASi Interface implemented with Pegasys</span>
+                                <p>
+                                    The first phase of the <b>Enterprise Acquisition Solution integrated (EASi) interface</b> was implemented with Pegasys on the weekend of November 1. As a result of this interface implementation, <b>Pegasys users will now be limited to view-only permission to the following document types:</b>
+                                </p>
+                                <ul>
+                                    <li>EF - EASI Reservation</li>
+                                    <li>EQ - EASI Purchase Request</li>
+                                    <li>EP - EASI Stand-Alone and Task Order</li>
+                                    <li>EJ - EASI Intra-Governmental Obligation</li>
+                                    <li>EK - EASI Recurring Service without LoGO clause Obligation</li>
+                                    <li>EN - EASI Construction Obligation</li>
+                                </ul>
+
+                                <p>
+                                    No other permissions are allowed beyond view-only because these documents are now coming through the EASi interface. Requests for any other type of permissions to these document types will be denied.<br />  <br />
+                                    For more information, visit <a href="https://insite.gsa.gov/portal/content/692858">https://insite.gsa.gov/portal/content/692858</a>
+                                </p>.
+                                <br />
+
+                            </div>
+
+                        <div class="rightcolbox">
+								<span class="title">New Pegasys Users</span>
+                                <ul>
+                                    <li>
+					User ID’s and Passwords are used to authenticate the identity of a Pegasys system user and, in some instances, to grant or deny access to private or shared data. They are one of the most common methods used for controlling system access.
+
+				<br /><br />
+				To start the process of obtaining a Pegasys user ID and password <a href="admin/usetup.htm">click here</a>
+									</li>                               
+								</ul>
+                            </div>            
+                            <!--<div class="rightcolbox">
+								<span class="title">System Status - 4/1/2015</span> 
+								<ul>
+
+									<li>
+										<font color="red"><b>Pegasys will be unavailable from Thursday, April 9 - 6 p.m. (EDT), through Wednesday, April 15 - 7 a.m. (EDT)</b> so that the Office of Financial and HR IT Services can implement the Pegasys 7.1.2 Upgrade.<br /><br />
+
+<b>AFFECTED AREA:</b><br /><br />
+All Pegasys users and all Pegasys functions will be affected. All users of CGE Travel, CCRC, FMIS, Business Objects and VCSS will also be affected.
+
+</font>
+									</li>
+
+									
+
+									
+								</ul>
+                            </div>-->
+
+
+                            <div class="rightcolbox"><span class="title">The OCFO Service Desk is here to help you</span>
+							
+														
+							<p>The OCFO Service Desk will assist users with questions, issues and concerns about the various OCFO Financial Applications such as Pegasys, E2, FMIS, FedDesk, Business Objects, etc. Please contact us by either email or telephone.</p>
+                               <ul>
+                                   <li>
+                                       <p>The OCFO Service Desk's email address, and phone number are as follows:<br /></p>
+                                       <ul>
+                                       <li><strong>E-mail:</strong> <a href="mailto:OCFOServiceDesk@gsa.gov">OCFOServiceDesk@gsa.gov</a></li>
+                                       <li><strong>Phone:</strong> 1-866-450-6588.</li>
+                                       </ul>
+                                   </li>                                  
+						       </ul>		
+                            </div>               
+                        </div>
+                        <br />
+                    </div>
+                </div>
+            </div>
+            <div id="rightnav">
+                <div id="nav">
+                    <h3>Quick Links</h3>
+                    <ul>						
+						<li><a href="ref/qrc.htm">Quick Reference Cards</a></li>
+						<li><a href="ref/ug.htm">User Guides</a></li>
+						<li><a href="help/fc.htm">Functional Coordinator</a></li>						
+                    </ul>
+                    <br />
+                    <h3>OCFO e-Tools</h3>
+                    <ul>
+                        			<li><a href="http://cfo.fmis.gsa.gov">Financial Management Information System (FMIS)</a></li>
+						<li><a href="https://cforeports.gsa.gov">Financial Reports Online</a></li>
+						<li><a href="http://bi.cfo.gsa.gov/">Business Intelligence</a></li>
+						<li><a href="https://pegasys-phdc.gsa.gov/ccrc" target="_blank">Central Contractor Registration (CCR)</a></li>
+                    </ul>
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+

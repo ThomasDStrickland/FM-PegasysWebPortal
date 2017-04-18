@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/document-metadata" generator="Adobe Captivate 4">
+<document-info>
+	<title>section_template_v1</title>
+	<summary></summary>
+	<author></author>
+	<keywords>Adobe Captivate Project section_template_v1</keywords>
+	<view-link href="Demo 10.swf?slide={position}"/>
+</document-info>
+<section type="slide" position="1">
+	<title>Demonstration 1 Main Page</title>
+
+	<content>
+	<text>The GL Account Detail query is used as an alternate way of viewing information contained in the ledger. Over 40 pieces of data to narrow the query results to only those records the user wants to view. The results of the query are displayed in a tabular format where each posting (a single debit or credit) recorded for each document line is displayed.In the demonstration, you can see what the query looks like and how to use it.</text>
+
+	<text>Demonstration 10 | Pegasys General Ledger Detail Query</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="2">
+	<title>Copy of Demonstration 1 Main Page</title>
+
+	<content>
+	<text>To begin the Asset Query, click Queries, General Ledger and then GL Account Detail Query.</text>
+
+	<text>Demonstration 10 | Pegasys General Ledger Detail Query</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="3">
+	<title></title>
+
+	<content>
+	<text>Enter the Document Type.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="4">
+	<title></title>
+
+	<content>
+	<text>Then the Document Number.</text>
+</content>
+</section>
+<section type="slide" position="5">
+	<title></title>
+
+	<content>
+	<text>Then scroll down.</text>
+</content>
+</section>
+<section type="slide" position="6">
+	<title></title>
+
+	<content>
+	<text>Click the Search button</text>
+</content>
+</section>
+<section type="slide" position="7">
+	<title></title>
+
+	<content>
+	<text>Scroll down to see the results.</text>
+</content>
+</section>
+<section type="slide" position="8">
+	<title></title>
+
+	<content>
+	<text>Select the entry you want to display.</text>
+</content>
+</section>
+<section type="slide" position="9">
+	<title></title>
+
+	<content>
+	<text>Click the Details button</text>
+</content>
+</section>
+<section type="slide" position="10">
+	<title></title>
+
+	<content>
+	<text>The GL Account Detail Query Detail page appears</text>
+
+	<text>Choose one of the GL Detail items.</text>
+</content>
+</section>
+<section type="slide" position="11">
+	<title></title>
+
+	<content>
+	<text>Click the View Document button</text>
+</content>
+</section>
+<section type="slide" position="13">
+	<title></title>
+
+	<content>
+	<text>The document selected appears in a pop-up window.</text>
+</content>
+</section>
+<section type="slide" position="14">
+	<title>Conclusion</title>
+
+	<content>
+	<text>Demonstration 10 | Pegasys General Ledger Detail Query</text>
+
+	<text>Pegasys Fixed Assets</text>
+
+	<text>Every field on this query is described in figure 7-15 of the Fixed Assets Phase 2 User Guide. This document can be found at pegasys.gsa.gov.That concludes this demonstration. There are no more segments to the PBS Fixed Assets training. You can now close the browser window to return to the Fixed Assets Training Contents page.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+</document-metadata>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/document-metadata" generator="Adobe Captivate 4">
+<document-info>
+	<title>section_template_v1</title>
+	<summary></summary>
+	<author></author>
+	<keywords>Adobe Captivate Project section_template_v1</keywords>
+	<view-link href="Demo1.swf?slide={position}"/>
+</document-info>
+<section type="slide" position="1">
+	<title>Demonstration 1 Main Page</title>
+
+	<content>
+	<text>This demonstration covers the simplest fixed asset referencing example. It shows a construction purchase order (PN) referencing one asset record  for the full amount of the purchase order. Thus, one asset record with one accounting line is referenced by the purchase order.It demonstrates the following key concepts:How to reference real property fixed asset from a purchase orderHow to search for a fixed asset </text>
+
+	<text>Demonstration 1 | Purchase Order with One Header Accounting Line to One Asset Record</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="2">
+	<title></title>
+
+	<content>
+	<text>We will begin on the  Header page for the Order (PN)</text>
+
+	<text>Click on the Fixed Assets tab</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="3">
+	<title></title>
+
+	<content>
+	<text>The Fixed Assets page appears</text>
+
+	<text>Click the Add button</text>
+</content>
+</section>
+<section type="slide" position="4">
+	<title></title>
+
+	<content>
+	<text>Click the Asset Number link to search for an Asset Number</text>
+</content>
+</section>
+<section type="slide" position="5">
+	<title></title>
+
+	<content>
+	<text>The Search - Asset Query page appears</text>
+
+	<text>Click the Search button</text>
+
+	<text>Since Real Property Asset Numbers begin with the Project Code, I&apos;ll enter the project code followed by an asterisk.</text>
+</content>
+</section>
+<section type="slide" position="6">
+	<title></title>
+
+	<content>
+	<text>Click the Select button to choose the Asset Number</text>
+</content>
+</section>
+<section type="slide" position="7">
+	<title></title>
+
+	<content>
+	<text>The Asset Number and Asset Type are filled in automatically.</text>
+
+	<text>Enter the Betterment Number. It is 0 for the original asset.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="9">
+	<title></title>
+
+	<content>
+	<text>Click on the Accounting Lines tab</text>
+</content>
+</section>
+<section type="slide" position="10">
+	<title></title>
+
+	<content>
+	<text>The Accounting Lines page appears</text>
+
+	<text>Click the Add button to add an Asset Accounting Line. </text>
+</content>
+</section>
+<section type="slide" position="11">
+	<title></title>
+
+	<content>
+	<text>The Asset Accounting Line is used to determine how much of each Header Accounting Line will be associated with the asset.</text>
+
+	<text>The Accounting Line Number should reference a Header Accounting Line. There is only one Header Accounting Line on this order, so we&apos;ll enter 1 here.</text>
+</content>
+</section>
+<section type="slide" position="12">
+	<title></title>
+
+	<content>
+	<text>The Header Accounting Line has $100,000 on it, and we want to put the entire amount on this Asset</text>
+</content>
+</section>
+<section type="slide" position="13">
+	<title></title>
+
+	<content>
+	<text>Click the Save button</text>
+</content>
+</section>
+<section type="slide" position="14">
+	<title></title>
+
+	<content>
+	<text>Then click the Verify button.</text>
+
+	<text>If there are no errors, click the Submit button</text>
+</content>
+</section>
+<section type="slide" position="15">
+	<title>Demo 1 Conclusion</title>
+
+	<content>
+	<text>Next Training Segment:Demonstration 2: Purchase Order with One Header Accounting Line to Multiple Asset RecordsThat concludes this demonstration. You can now close the browser window to return to the Fixed Assets Training Contents page.</text>
+
+	<text>Demonstration 1 | Purchase Order with One Header Accounting Line to One Asset Record</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+</document-metadata>

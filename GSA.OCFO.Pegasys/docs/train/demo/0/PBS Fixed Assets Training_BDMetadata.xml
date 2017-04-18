@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/document-metadata" generator="Adobe Captivate 4">
+<document-info>
+	<title>section_template_v1</title>
+	<summary></summary>
+	<author></author>
+	<keywords>Adobe Captivate Project section_template_v1</keywords>
+	<view-link href="PBS Fixed Assets Training.swf?slide={position}"/>
+</document-info>
+<section type="slide" position="1">
+	<title>Main Menu</title>
+
+	<content>
+	<text>@ 2009 U.S. General Services Administration | All Rights Reserved.</text>
+
+	<text>Pegasys Fixed Assets</text>
+
+	<text>Getting Started</text>
+
+	<text>Fixed Assets Lifecycle</text>
+
+	<text>Purchasing &amp; Fixed Assets</text>
+
+	<text>Introduction</text>
+
+	<text>Main Menu</text>
+
+	<text>Welcome to Pegasys Fixed Assets Phase 2 training for the Public Buildings Service. This training will include:An introduction to the Fixed Assets subsystemAn explanation of the lifecycle for fixed assets and the Pegasys forms used to manage the processDetailed information on the relationship between the Fixed Assets and Purchasing subsystemsStep-by-step demonstrations of how to complete purchasing forms to reference fixed assetsDiscussion and demonstrations of fixed assets queriesOther resources including contact information and reference materialIf this training does not fit on your computer screen, please press the F11 key on your keyboard to run it full screen.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="2">
+	<title>Section 1 Background</title>
+
+	<content>
+	<text>Introduction | Background</text>
+
+	<text>The General Services Administration has implemented Pegasys as its system of record for accounting and financial management. This implementation involved a phased approach with the ultimate goal of completely replacing the National Electronic Accounting and Reporting (NEAR) system. The Real Property Accounting and Depreciation System (RPADS) serviced the bulk of the asset accounting functions of the Public Building Service (PBS). RPADS included multi-phased property records and Energy Saving Performance Contract (ESPC) asset records. GSA also used Microsoft Excel spreadsheets and Microsoft Access databases to track personal property. Personal property is an asset that is assigned to individuals within GSA. This personal property data resided in several systems, including the Capital Asset Depreciation System (CADS), the External Services Personal Property and the PBS Personal Property systems. CADS included the asset records that were within the CAMS database. The Pegasys Fixed Assets subsystem replaces these functions for</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="3">
+	<title>Benefits of Pegasys Fixed Assets</title>
+
+	<content>
+	<text>Introduction | Benefits of Pegasys Fixed Assets</text>
+
+	<text>Moves all Asset Management modules from the NEAR system (such as RPADS) and consolidates all funds and clients’ property, plant and equipment into one system, thus removing the need for multiple systems and reducing costs. Promotes greater efficiency by removing labor-intensive and redundant processes. Provides more timely and accurate information to enable sound management decisions. Involves resources from the Office of the Finance to ensure all regulatory requirements including those from FSIO are met in terms of data and reporting. Ensures system integrity through GSA approved security measures.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="4">
+	<title>Functions of Pegasys Fixed Assets</title>
+
+	<content>
+	<text>Introduction | Functions of Pegasys Fixed Assets</text>
+
+	<text>Records acquisition of assets and associated bettermentsReferences asset records on purchasing, payment, credit card logs, standard vouchers, ETAMS labor transactions and E2 travel document transactionsPosts acquisition cost and depreciation cost to the general ledger for capitalized assets and associated bettermentsTransfers assets and betterments to new accounting distributionsRecords the disposition of assetsTracks asset status and information through queriesMaintains a detailed audit trail of asset activity</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="5">
+	<title>Section 2 Fixed Assets Lifecycle</title>
+
+	<content>
+	<text>Overview</text>
+
+	<text>Fixed Assets Lifecycle</text>
+
+	<text>A fixed asset is a long-term, tangible object held for business use that is not expected to be converted to cash in the current or upcoming fiscal year.  Examples of Real property fixed assets maintained by GSA PBS are land, buildings, artwork and improvements.  Personal property fixed assets are operating equipment and administrative equipment.  Each stage of a fixed asset’s life cycle is recorded in Pegasys through the creation and processing of forms</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="6">
+	<title>Acquisition</title>
+
+	<content>
+	<text>Acquisition</text>
+
+	<text>FA Lifecycle | Real Property Lifecycle</text>
+
+	<text>Real property fixed assets involve integration between IRIS and Pegasys to automatically generate Pegasys Fixed Assets acquisition forms (FA). The integration will allow key asset information to be transferred to the Pegasys Fixed Asset record, such as Asset type, Acquisition Method, and Capitalization Date.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="7">
+	<title>Acquisition Fixed Asset Record</title>
+
+	<content>
+	<text>Acquisition - Fixed Asset Records</text>
+
+	<text>FA Lifecycle | Real Property Lifecycle</text>
+
+	<text>When the FF forms are created, the Fixed Asset number will be generated automatically. The number will be the Project Code combined with the Building Number with no space between. For example, if the Project Code is NIL00150 and the Building Number is IL0311ZZ, then the Asset Number will be NIL00150IL0311ZZ. PBS Real Property capitalized projects will originate in IRIS and flow through FMESB into the Pegasys Fixed Asset subsystem.  At that time, the capitalized projects will create records in the Pegasys Fixed Asset subsystem. An Asset type will be assigned based upon project class.  For example. for a N-type project, which is New Construction Incomplete, the new asset type will be CIPNEWCON. These records will not create SGL postings at the time of their creation.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="8">
+	<title>Betterment</title>
+
+	<content>
+	<text>Betterment</text>
+
+	<text>FA Lifecycle | Real Property Lifecycle</text>
+
+	<text>A betterment is an upgrade or an addition to an existing fixed asset that increases the asset’s value or the asset’s useful life. Betterments enhance assets and consequently, are managed together with the asset.An example of a betterment is a new wing to a building, the building is the original asset. The new wing increases the building’s worth. In Pegasys, betterments are defined by a combination of three fields: Asset Type, Asset Number, and Betterment Number. The combination of these fields links the betterment to the original asset while providing the betterment with a unique identity (the Betterment Number.)   Single assets will have a betterment number of ‘0’ (Zero).GSA will be utilizing Betterments for recording and tracking multi-phased assets. For more information about determining whether an asset is multi-phased, please refer to the PBS Real Property Handbook, Section 4.1 Multi-phase Assets.The Fixed Assets Betterment (FG) form will be utilized by PBS to record multi-phased assets and their respective substant</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="9">
+	<title>Correction and Transfer</title>
+
+	<content>
+	<text>Correction</text>
+
+	<text>FA Lifecycle | Real Property Lifecycle</text>
+
+	<text>Corrections to the asset are handled by Fixed Asset Corrections (FC) forms. These forms will be processed by the Finance Center. Cost transfers will still be sent to FW Finance Center. Project capitalization changes will still need to be sent to PBS Property.</text>
+
+	<text>Transfer</text>
+
+	<text>Asset transfers are handled by Fixed Asset Transfer (FT) forms. These forms will be processed by the Finance Center when the regions or PBS Property have notified them of any project changes. The regional offices still need to send any project status changes to PBS Property. </text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="10">
+	<title>Depreciation</title>
+
+	<content>
+	<text>Depreciation</text>
+
+	<text>FA Lifecycle | Real Property Lifecycle</text>
+
+	<text>The Automated Depreciation Process is used to compute the depreciation for certain fixed assets and betterments. The process computes depreciation from the date of acquisition or the in-service date. After each completion of the Automated Depreciation Process, the incremental amount of accumulated depreciation is recorded on the fixed asset record, the Fixed Asset Journal, and the General Ledger. The Automated Depreciation Process will run on the first day of the month following the depreciation period. For example, the Automated Depreciation Process for May will run on June 1 and will post the depreciation expense for the May accounting period. Please see the Fixed Asset User’s Guide for Depreciation calculation.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="11">
+	<title>Copy of Disposal</title>
+
+	<content>
+	<text>Disposal</text>
+
+	<text>FA Lifecycle | Real Property Lifecycle</text>
+
+	<text>An asset can be disposed of through the use of a Fixed Asset Disposal (FJ) form. This is also processed by Finance upon notification by PBS. PBS Property Disposal must notify PBS Property@gsa.gov and FW Finance Center upon disposal of an asset.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="12">
+	<title>Personal Property</title>
+
+	<content>
+	<text>FA Lifecycle | Personal Property</text>
+
+	<text>For PBS Personal property, PBS emails a Personal Property Fixed Asset Request Form to Fort Worth Finance Center to create the Fixed Asset Acquisition (FN) record.  Fort Worth Finance Center will provide PBS with the Personal Property Asset Number. It is IMPORTANT to remember your Personal Property Asset number assigned when referencing on purchase order documents. There are no unique regional identifiers on Personal Property asset numbers. An example of a Personal Property Fixed Asset Number is as follows:  EQUIPADMIN2009052000001.  </text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="13">
+	<title>Conversion Documents</title>
+
+	<content>
+	<text>FA Lifecycle | Conversion Documents</text>
+
+	<text>For Pegasys purchase orders for Real Property and Personal Property with open balances as of May 22, 2009, asset information can be found in the Description field of the Header Accounting Line. For Real Property, the asset number will display: NNY87452NY0370ZZ, for example. For Personal Property, the asset type and asset number will display: EQUIPADMIN CONVR07PBSPPFA135, for example. When correcting, amending, or using one of these purchase orders to create a referencing transaction, users can copy and paste this asset information into the Fixed Assets tab.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="14">
+	<title>Section 3 Purchasing and Fixed Assets</title>
+
+	<content>
+	<text>Pegasys Purchasing &amp; Fixed Assets</text>
+
+	<text>The acquisition of a fixed asset typically requires a purchase in Pegasys. Users must reference a Pegasys asset record when an asset is purchased so that Pegasys can manage financial information for the asset, such as the acquisition cost and depreciation. The link between an asset and the purchase is done on the purchase order. Since receipts, estimated accruals and payments are created by copying forward from the order, Pegasys can then maintain the link between all of the purchasing activity and the asset record.The accounting codes that are added to an order’s Header Accounting Line determine whether the order will require the user to reference a fixed asset. If the user creating the order for a fixed asset does not reference a fixed asset, they will receive a relationship edit error when they verify or process the order.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="15">
+	<title>Referencing a FA on an Order</title>
+
+	<content>
+	<text>Purchasing &amp; FA | Referencing a Fixed Asset on an Order</text>
+
+	<text>Fixed Assets Phase 2 places a Fixed Asset tab on purchasing documents. This allows users to reference a fixed asset on orders. Creating a link between the order and a fixed asset is critical to the proper accounting for fixed assets.To ensure that this link is created, Pegasys will display an error message (see example below) if users do not reference a fixed asset on the order when they attempt to verify or process the order. The requirement to reference an order is determined based on the accounting codes entered on the Header Accounting Lines.</text>
+
+	<text>Example of Error Message</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="16">
+	<title>Conclusion</title>
+
+	<content>
+	<text>Conclusion</text>
+
+	<text>That concludes this Training segment. There are 10 demonstations which follow:4 demonstrations of Orders3 demonstrations of documents that reference an order, including a receipt, an estimated accrual and a credit card reconciliation3 demonstrations of QueriesNext Training Segment:Demonstration 1: Purchase Order with One Header Accounting Line to One Asset RecordYou can now close the browser window to return to the Fixed Assets Training Contents page.</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+</document-metadata>

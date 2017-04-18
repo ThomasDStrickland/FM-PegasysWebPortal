@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/document-metadata" generator="Adobe Captivate 4">
+<document-info>
+	<title>section_template_v1</title>
+	<summary></summary>
+	<author></author>
+	<keywords>Adobe Captivate Project section_template_v1</keywords>
+	<view-link href="Demo 5.swf?slide={position}"/>
+</document-info>
+<section type="slide" position="1">
+	<title>Demonstration 1 Main Page</title>
+
+	<content>
+	<text>This demonstration covers a simple construction purchase order (PN) partial receiving report (RW) and linking it to the asset record.   It provides a step-by-step guide of linking the asset record and changing the asset accounting line for partial receipt amount.It demonstrates the following key concepts:How to change accounting line amounts on a receiving report with fixed asset records.How to change asset accounting line amounts to ensure they total full amount of  receiving report.</text>
+
+	<text>Demonstration 5 | Receipt</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+<section type="slide" position="2">
+	<title></title>
+
+	<content>
+	<text>This is the Header page for the Receipt (RW).</text>
+</content>
+</section>
+<section type="slide" position="3">
+	<title></title>
+
+	<content>
+	<text>Select the Fixed Assets link</text>
+</content>
+</section>
+<section type="slide" position="4">
+	<title></title>
+
+	<content>
+	<text>The Fixed Assets page appears</text>
+
+	<text>Select the Fixed Asset</text>
+</content>
+</section>
+<section type="slide" position="5">
+	<title></title>
+
+	<content>
+	<text>Select the Accounting Lines link</text>
+</content>
+</section>
+<section type="slide" position="6">
+	<title></title>
+
+	<content>
+	<text>The Accounting Lines page appears</text>
+
+	<text>Select the Asset Accounting line.</text>
+</content>
+</section>
+<section type="slide" position="7">
+	<title></title>
+
+	<content>
+	<text>Select the Accounting Line link so we can enter the amount we will receive.</text>
+</content>
+</section>
+<section type="slide" position="8">
+	<title></title>
+
+	<content>
+	<text>The Accounting Line page appears. We will change the Amount to $50,000.</text>
+</content>
+</section>
+<section type="slide" position="9">
+	<title></title>
+
+	<content>
+	<text>Select the Header Accounting Lines link</text>
+</content>
+</section>
+<section type="slide" position="10">
+	<title></title>
+
+	<content>
+	<text>Select the Header Accounting Line and click the Header Accounting Line link.</text>
+</content>
+</section>
+<section type="slide" position="12">
+	<title></title>
+
+	<content>
+	<text>On the Header Accounting Line, scroll down and enter the amount we will receive. It must be the same amount as on the Asset Accounting Line, $50,000.</text>
+</content>
+</section>
+<section type="slide" position="13">
+	<title></title>
+
+	<content>
+	<text>Click the Save button</text>
+</content>
+</section>
+<section type="slide" position="14">
+	<title></title>
+
+	<content>
+	<text>Click the Verify button</text>
+</content>
+</section>
+<section type="slide" position="15">
+	<title></title>
+
+	<content>
+	<text>If there are no errors, click the Submit button</text>
+</content>
+</section>
+<section type="slide" position="16">
+	<title>Demo 1 Conclusion</title>
+
+	<content>
+	<text>Next Training Segment:Demonstration 6: Estimated AccrualThat concludes this demonstration. You can now close the browser window to return to the Fixed Assets Training Contents page.</text>
+
+	<text>Demonstration 5 | Receipt</text>
+
+	<text>Pegasys Fixed Assets</text>
+</content>
+
+	<related-content>Click to add notes for the selected slide</related-content>
+</section>
+</document-metadata>
